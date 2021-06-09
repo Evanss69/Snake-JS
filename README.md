@@ -1,3 +1,3 @@
 # Snake
 
-snake en javascript 
+JavaScript Snake Game
